@@ -2,7 +2,7 @@
 
 Issues found while testing https://interview-qa-task.vercel.app/ as a customer and as a shop owner.
 
-**40 tickets** – 31 bugs, 9 enhancements
+**41 tickets** – 31 bugs, 10 enhancements
 
 | Severity | Bugs |
 |---|---|
