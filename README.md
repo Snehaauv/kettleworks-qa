@@ -14,12 +14,5 @@ Issues found while testing https://interview-qa-task.vercel.app/ as a customer a
 Each ticket has steps to reproduce, expected and actual results, and screenshots.
 Labels: `bug` / `enhancement`, `severity: …`, `area: …` (cart, checkout, catalogue, account, admin, security, accessibility, content).
 
-## Start with these
-- #1 Cart ignores quantity – charges for one unit
-- #2 GST added on top of GST-inclusive prices
-- #10 /admin open to anyone, even signed out
-- #12 Reviews run HTML/JavaScript (stored XSS)
-- #23 Orders visible to other users and after sign-out
-
 ## Tested on
 Microsoft Edge on Windows, and a mobile phone browser.
