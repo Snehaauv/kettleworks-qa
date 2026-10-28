@@ -15,4 +15,4 @@ Each ticket has steps to reproduce, expected and actual results, and screenshots
 Labels: `bug` / `enhancement`, `severity: …`, `area: …` (cart, checkout, catalogue, account, admin, security, accessibility, content).
 
 ## Tested on
-Microsoft Edge on Windows, and a mobile phone browser.
+Microsoft Edge and Google Chrome on Windows laptops, and a mobile phone browser. Screenshots are from Edge.
